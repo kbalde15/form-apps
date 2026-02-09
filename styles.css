@@ -200,3 +200,7 @@ hr {
     background-color: #f4f4f4;    /* Light background for the header */
     font-weight: bold;
 }
+#error_message {
+    color: red; 
+    height: 1.2em;
+}
